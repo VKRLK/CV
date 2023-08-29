@@ -10,7 +10,6 @@ sidebar:
     # Profile information
     name: Vladislav Kim
     tagline: JS Developer
-    avatar: mebius100100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Contact data
     email: vkrlk97@gmail.com.com
@@ -64,21 +63,10 @@ education:
       - degree: MSc in Robotics and automation
         university: Saint Petersburg Electrotechnical University
         time: 2019 - 2021
-        details: |
-          
-            - Bullet point
-            - Bullet point
+
       - degree: BSc in Robotics and automation
         university: Saint Petersburg Electrotechnical University
         time: 2015 - 2019
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
@@ -87,114 +75,40 @@ experiences:
         time: 2022 - Present
         details: |
           Freelance: currently working with several startups as frontend JS developer.
+            - Creating pages following the design
+            - Development of services to solve user tasks
+            - First website deployment
 
       - role: Junior Software Engineer (fullstack JS)
-        time: 2014 - 2015
+        time: 2021 - 2022
         company: Oplanto, Leiden
         details: |
           Developed browser built-in 3D editor module that helped people make their models on 3D printers.
-            - Bullet point
-            - Bullet point
+            - Discussion, development and implementation of web application design
+            - Extending and supporting legacy code (sometimes replacement)
+            - Bug fixes
+            - Website transfer to another platform (AWS EC2)
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Frontend Developer
+        time: 2019 - 2020
+        company: Pomogatel, Moscow
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          Developed service that helps families and domestic helpers find each other.
+            - Creating pages following the design
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
       - name: Angular
-        level: 98%
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
+        level: 90%
 
       - name: Sketch & Photoshop
         level: 60%
