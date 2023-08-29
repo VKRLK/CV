@@ -101,15 +101,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript & jQuery
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: JS
         level: 80%
 
       - name: Angular
         level: 70%
 
-      - name: HTML5 & CSS
-        level: 90%
+      - name: NodeJS
+        level: 60%
 
-      - name: Sketch & Photoshop
+      - name: PostgreSQL MySQL Ingres 
+        level: 60%
+      
+      - name: Docker & Kubernetes
+        level: 80%
+
+      - name: Adobe Illustrator, Adobe Photoshop
         level: 60%
 
