@@ -4,19 +4,17 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Vladislav Kim
     tagline: JS Developer
 
     # Contact data
-    email: vkrlk97@gmail.com.com
+    email: vkrlk97@gmail.com
     phone: +7 (776) 7694216
-    timezone: UTC+6
+    timezone: UTC +6
     citizenship:
-    website: vkrlk.github.io/Resume/ #do not add http://
     github: vkrlk
     telegram: +7 (776) 7694216
     WhatsApp: +7 (776) 7694216
@@ -102,7 +100,7 @@ skills:
 
     toolset:
       - name: HTML5 & CSS
-        level: 90%
+        level: 80%
 
       - name: JS
         level: 80%
@@ -111,7 +109,7 @@ skills:
         level: 70%
 
       - name: NodeJS
-        level: 60%
+        level: 50%
 
       - name: PostgreSQL MySQL Ingres 
         level: 60%
